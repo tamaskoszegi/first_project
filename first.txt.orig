@@ -1,0 +1,9 @@
+This is my first file on Git training.
+This is the second line.
+3rd line.
+Last line?
+<<<<<<< HEAD
+yes it is
+=======
+Nono, this is the last line
+>>>>>>> feature300
